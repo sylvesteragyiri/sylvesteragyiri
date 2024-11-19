@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me sylvesteragyiri02@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Amazon started as an online bookstore in Jeff Bezos' garage. 
 
 <!---
 sylvesteragyiri/sylvesteragyiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
